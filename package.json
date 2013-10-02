@@ -46,10 +46,12 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "12.7.5",
+    "benchmark": "2.1.4",
     "chai": "4.2.0",
     "coveralls": "3.0.6",
     "eslint": "6.4.0",
     "glob": "7.1.4",
+    "microtime": "3.0.0",
     "mocha": "6.2.0",
     "nyc": "14.1.1",
     "sinon": "7.4.2",
